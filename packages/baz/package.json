@@ -1,5 +1,5 @@
 {
-  "name": "typescript-composite-lerna-baz",
+  "name": "@typescript-composite-lerna/baz",
   "version": "0.1.0",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -15,6 +15,6 @@
     "access": "public"
   },
   "dependencies": {
-    "typescript-composite-lerna-bar": "0.1.0"
+    "@typescript-composite-lerna/bar": "0.1.0"
   }
 }
